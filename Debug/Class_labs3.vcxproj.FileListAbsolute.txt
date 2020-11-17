@@ -1,0 +1,4 @@
+D:\Program\Visual studio kod\Class_labs3\Debug\Class_labs3.exe
+D:\Program\Visual studio kod\Class_labs3\Debug\Class_labs3.pdb
+D:\Program\Visual kod\Classes_labs\Class_labs3\Debug\Class_labs3.exe
+D:\Program\Visual kod\Classes_labs\Class_labs3\Debug\Class_labs3.pdb
